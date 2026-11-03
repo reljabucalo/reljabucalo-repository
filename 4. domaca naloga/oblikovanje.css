@@ -48,7 +48,7 @@ blockquote {
     margin-right: 2em;
     padding: 1em;
     background-color: rgb(51,81,126,0.2);
-    border: 1px rgb(51, 81, 126)
+    border: 1px rgb(51, 81, 126);
 }
 blockquote p {
     font-style: italic;
